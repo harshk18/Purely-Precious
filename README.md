@@ -7,7 +7,7 @@ A custom eCommerce platform built using React, Redux, Node, Express, and MongoDB
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
 3. [Usage](#usage)
-4. [Build & Deploy](#build&deploy)
+4. [Build & Deploy](#build--deploy)
 5. [Demo](#demo)
 
 ## Features
